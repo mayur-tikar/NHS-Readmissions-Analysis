@@ -26,7 +26,7 @@ This project analyzes NHS data on emergency readmissions within 30 days of disch
 
 ---
 
-## 🔑 **Key Performance Indicators (KPI Highlights)**
+### 🔑 **Key Performance Indicators (KPI Highlights)**
 
 - **Year with Highest Readmissions**: 2019/20
 - **Lowest Readmission Year**: 2020/21
@@ -37,7 +37,7 @@ This project analyzes NHS data on emergency readmissions within 30 days of disch
 
 ---
 
-## 🚀 **How to Run This Project**
+### 🚀 **How to Run This Project**
 
 1. Clone this repo
 2. Set up PostgreSQL (add credentials in `.env`)
@@ -47,7 +47,7 @@ This project analyzes NHS data on emergency readmissions within 30 days of disch
    - `sql_eda.ipynb`
 
 ---
-## 👤 Author
+### 👤 Author
 
 **Mayur Tikar**  
 *Aspiring Data Analyst and Data Engineer focused on health and finance sectors*    
