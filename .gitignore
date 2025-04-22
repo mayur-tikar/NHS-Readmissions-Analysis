@@ -1,0 +1,18 @@
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore Anaconda project files
+anaconda_projects/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
