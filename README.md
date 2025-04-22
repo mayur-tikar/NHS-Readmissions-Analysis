@@ -1,7 +1,5 @@
 # 🚀 **NHS-Readmissions-Analysis**
 
-**NHS Emergency Readmissions Analysis**
-
 ---
 
 ### 📚 **Project Description**
