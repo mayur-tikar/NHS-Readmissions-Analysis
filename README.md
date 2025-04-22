@@ -34,7 +34,7 @@ This project analyzes NHS data on emergency readmissions within 30 days of disch
 - **Highest Risk Age Group**: 90+
 - **Top Region**: Barnsley
 - **Top Condition**: Other Chronic Obstructive Pulmonary Disease
-
+![Power BI Dashboard](https://github.com/mayur-tikar/NHS-Readmissions-Analysis/blob/main/Microsoft-Power-BI-Storytelling/Slide1.jpeg)
 ---
 
 ### 🚀 **How to Run This Project**
