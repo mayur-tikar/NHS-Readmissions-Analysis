@@ -18,22 +18,19 @@ This project analyzes NHS data on emergency readmissions within 30 days of disch
 
 ---
 
-### 📈 **Project Insights**
-- **Pandemic Impact**: 2020/21 saw a sharp drop in readmissions due to COVID-19.
-- **Age Factor**: Readmissions increase drastically with age, with 90+ being the most affected.
-- **Geographic Hotspots**: Regions like Barnsley and Liverpool show consistently high rates.
-- **Condition-wise**: COPD and Heart Failure show persistently high emergency readmissions.
+### 🚀 **Highlights:**
+- Analyzed **90,000+ rows** of NHS data using **Python (Pandas, Seaborn)** for cleaning, EDA, and trend visualization
+- Used **PostgreSQL** to perform structured SQL-based analysis (avg readmission, expected vs. observed deviation)
+- Designed a **Power BI dashboard** showing regional, age-wise, and condition-specific insights
+- Built modular project structure with `.env` secrets, reusable functions, and `.ipynb` notebooks for reproducibility
 
 ---
 
-### 🔑 **Key Performance Indicators (KPI Highlights)**
-
-- **Year with Highest Readmissions**: 2019/20
-- **Lowest Readmission Year**: 2020/21
-- **Average Readmission Rate**: XX% (from SQL)
-- **Highest Risk Age Group**: 90+
-- **Top Region**: Barnsley
-- **Top Condition**: Other Chronic Obstructive Pulmonary Disease
+### 🔍 **Key Insights:**
+- **90+ age group** had the highest readmission rates
+- Significant **dip in 2020/21** followed by a rise in 2021/22 across multiple categories (likely pandemic-related)
+- **Top conditions**: Chronic pulmonary disease, Angina, Atrial fibrillation
+- Regional hotspots: Barnsley, Manchester, Knowsley
 ![Power BI Dashboard](https://github.com/mayur-tikar/NHS-Readmissions-Analysis/blob/main/Microsoft-Power-BI-Storytelling/Slide1.jpeg)
 ---
 
